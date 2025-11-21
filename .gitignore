@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.env
+.venv/
+venv/
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.weights
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build/test outputs
+*.log
+*.tmp
